@@ -7,4 +7,4 @@ This widget helps iOS applications to have a proper sizing system for clothes.
 
 ## Contribute
 
-You can help us make this app suitable for the web.
+You can help us make this app suitable for the web. The formula is available in "ViewController.swift" file in "Dress Slider" filder.
